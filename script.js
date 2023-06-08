@@ -10,7 +10,7 @@ function photography() {
         " " +
         lastName +
         "." +
-        " We'll chat soon via email🤗!"
+        " Chat soon via email🤗!"
     );
   } else {
     alert("Sorry, we can't contact you🫤!");
